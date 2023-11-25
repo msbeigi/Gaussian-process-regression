@@ -1,3 +1,4 @@
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 
 
 ## Gaussian-process-regression
